@@ -16,25 +16,21 @@ Welcome to my profile! I'm a passionate full-stack programmer who loves building
 
 ## Skills 🚀
 
-- 💻 Programming Languages: 
-    - Android Kotlin (Android Studio) ![image](https://github.com/Gfg92/Gfg92/assets/91074638/983f8988-d3d8-4473-8ca9-da5d63f08fd4)
-    - Jetpack Compose ![image](https://github.com/Gfg92/Gfg92/assets/91074638/2103c80d-aa95-4e51-afed-c3d1e31d8e22)
-    - Python ![image](https://github.com/Gfg92/Gfg92/assets/91074638/22960866-f176-4eff-b2a1-20b6c13c3f19)
-    - Java ![image](https://github.com/Gfg92/Gfg92/assets/91074638/4ff5ea82-a92b-4606-8f40-a474f2162da5)
-    - JavaScript ![image](https://github.com/Gfg92/Gfg92/assets/91074638/435ae37a-a290-4524-a487-35763d8e75a6)
 - 💻 Programming Languages:
-  - Android Kotlin (Android Studio) <img src="https://github.com/Gfg92/Gfg92/assets/91074638/983f8988-d3d8-4473-8ca9-da5d63f08fd4" width="24" height="24">
-  - Jetpack Compose <img src="https://github.com/Gfg92/Gfg92/assets/91074638/2103c80d-aa95-4e51-afed-c3d1e31d8e22" width="24" height="24">
-  - Python <img src="https://github.com/Gfg92/Gfg92/assets/91074638/22960866-f176-4eff-b2a1-20b6c13c3f19" width="24" height="24">
-  - Java <img src="https://github.com/Gfg92/Gfg92/assets/91074638/4ff5ea82-a92b-4606-8f40-a474f2162da5" width="24" height="24">
-  - JavaScript <img src="https://github.com/Gfg92/Gfg92/assets/91074638/435ae37a-a290-4524-a487-35763d8e75a6" width="24" height="24">
+  - Android Kotlin (Android Studio) <img src="https://github.com/Gfg92/Gfg92/assets/91074638/983f8988-d3d8-4473-8ca9-da5d63f08fd4" width="24" height="24" style="vertical-align:middle;">
+  - Jetpack Compose <img src="https://github.com/Gfg92/Gfg92/assets/91074638/2103c80d-aa95-4e51-afed-c3d1e31d8e22" width="24" height="24" style="vertical-align:middle;">
+  - Python <img src="https://github.com/Gfg92/Gfg92/assets/91074638/22960866-f176-4eff-b2a1-20b6c13c3f19" width="24" height="24" style="vertical-align:middle;">
+  - Java <img src="https://github.com/Gfg92/Gfg92/assets/91074638/4ff5ea82-a92b-4606-8f40-a474f2162da5" width="24" height="24" style="vertical-align:middle;">
+  - JavaScript <img src="https://github.com/Gfg92/Gfg92/assets/91074638/435ae37a-a290-4524-a487-35763d8e75a6" width="24" height="24" style="vertical-align:middle;">
 
 - 🛠 Tools & Technologies:
-    - Node.js
-    - MongoDB
-    - MySQL
-    - PostgreSQL 
-    - eXistdb 
+    - Node.js <img src="https://github.com/Gfg92/Gfg92/assets/91074638/84725939-50c7-4200-8b7c-ade23139abcc" width="24" height="24" style="vertical-align:middle;">
+    - MongoDB <img src="https://github.com/Gfg92/Gfg92/assets/91074638/88f88284-b22f-4991-a55b-bb0ef1daf7ba" width="24" height="24" style="vertical-align:middle;">
+    - MySQL <img src="https://github.com/Gfg92/Gfg92/assets/91074638/d9e3ed29-300c-415e-af7c-dcb190d13f3c" width="24" height="24" style="vertical-align:middle;">
+    - PostgreSQL <img src="https://github.com/Gfg92/Gfg92/assets/91074638/18662bd1-49cf-476e-ba25-39bb325982e4" width="24" height="24" style="vertical-align:middle;">
+    - Docker <img src="https://github.com/Gfg92/Gfg92/assets/91074638/67ecb21f-5fdd-4eeb-ad4c-0f06b644cb53" width="24" height="24" style="vertical-align:middle;">
+    - GitHub <img src="https://github.com/Gfg92/Gfg92/assets/91074638/cb154de2-7596-49aa-8d1a-6dbe12098c3a" width="24" height="24" style="vertical-align:middle;">
+
 - And more...
 
 ## Contact 📫
