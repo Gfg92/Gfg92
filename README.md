@@ -17,11 +17,11 @@ Welcome to my profile! I'm a passionate full-stack programmer who loves building
 ## Skills 🚀
 
 - 💻 Programming Languages: 
-    - Android Kotlin (Android Studio) 
-    - Jetpack Compose
-    - Python 
+    - Android Kotlin (Android Studio) ![image](https://github.com/Gfg92/Gfg92/assets/91074638/983f8988-d3d8-4473-8ca9-da5d63f08fd4)
+    - Jetpack Compose ![image](https://github.com/Gfg92/Gfg92/assets/91074638/2103c80d-aa95-4e51-afed-c3d1e31d8e22)
+    - Python ![image](https://github.com/Gfg92/Gfg92/assets/91074638/22960866-f176-4eff-b2a1-20b6c13c3f19)
     - Java ![image](https://github.com/Gfg92/Gfg92/assets/91074638/4ff5ea82-a92b-4606-8f40-a474f2162da5)
-    - JavaScript 
+    - JavaScript ![image](https://github.com/Gfg92/Gfg92/assets/91074638/435ae37a-a290-4524-a487-35763d8e75a6)
 - 🛠 Tools & Technologies:
     - Node.js
     - MongoDB
