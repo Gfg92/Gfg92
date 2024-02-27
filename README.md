@@ -4,36 +4,42 @@ Welcome to my profile! I'm a passionate full-stack programmer who loves building
 
 ## About Me ℹ️
 
-- **Profession:** Full-stack Programmer
-- **Location:** Castellón de la Plana
-- **Interests:** Technology, programming, artificial intelligence, music, literature.
+- 🏷 Name: Guillermo Fernández
+- 💼 Profession: Full-stack Programmer
+- 📍 Location: Castellón de la Plana
+- 🎯 Interests: Technology, programming, artificial intelligence, big data.
 
 ## Experience 💼
 
-- **Education:** [Your educational background and areas of study]
-- **Work Experience:** [Brief description of your relevant work or projects]
+- 🎓 Education: Multiplatform Application Development, Big Data and Artificial Intelligence
+- 💻 Work Experience: [Brief description of your relevant work or projects]
 
 ## Skills 🚀
 
-- **Programming Languages:** [List of programming languages you are proficient in]
-- **Tools & Technologies:** [Frameworks, tools, software that you master]
-- **Languages:** [Languages you speak and proficiency level]
-
-## Featured Projects 🌟
-
-- **[Project Name](Project Link):** Brief description of the project and your contribution.
+- 💻 Programming Languages: 
+    - Android Kotlin (Android Studio) ![Kotlin](link-to-kotlin-logo.png)
+    - Jetpack Compose ![Jetpack Compose](link-to-jetpack-compose-logo.png)
+    - Python ![Python](link-to-python-logo.png)
+    - Java ![Java](link-to-java-logo.png)
+    - JavaScript ![JavaScript](link-to-js-logo.png)
+- 🛠 Tools & Technologies:
+    - Node.js ![Node.js](link-to-nodejs-logo.png)
+    - MongoDB ![MongoDB](link-to-mongodb-logo.png)
+    - MySQL ![MySQL](link-to-mysql-logo.png)
+    - PostgreSQL ![PostgreSQL](link-to-postgresql-logo.png)
+- And more...
 
 ## Contact 📫
 
 I'd love to connect with you! You can find me on:
 
-- **Email:** [Your email address]
-- **LinkedIn:** [Link to your LinkedIn profile]
-- **Website/Blog:** [Link to your website or blog, if available]
+- ✉️ Email: guillef.dez11@gmail.com
+- 🔗 LinkedIn: https://es.linkedin.com/in/guillermo-fern%C3%A1ndez-grueso-890229239
 
 Thanks for visiting my profile! Feel free to reach out if you have any questions or suggestions.
 
 ![GIF](link-to-your-gif.gif)
+
 
 
 
