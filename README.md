@@ -9,9 +9,10 @@ Welcome to my profile! I'm a passionate full-stack programmer who loves building
 - 📍 Castellón de la Plana
 - 🎯 Technology, programming, artificial intelligence, big data.
 
-## Experience 💼
+## Vocational Training 🎓
 
-- 🎓 Multiplatform Application Development, Big Data and Artificial Intelligence
+- 📱 Multiplatform Application Development
+- 🤖 Big Data and Artificial Intelligence
 
 ## Skills 🚀
 
@@ -34,7 +35,7 @@ Welcome to my profile! I'm a passionate full-stack programmer who loves building
 I'd love to connect with you! You can find me on:
 
 - ✉️ Email: guillef.dez11@gmail.com
-- 🔗 LinkedIn: https://es.linkedin.com/in/guillermo-fern%C3%A1ndez-grueso-890229239
+- 🔗 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-guillermo-fernández-grueso-890229239?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)]
 
 Thanks for visiting my profile! Feel free to reach out if you have any questions or suggestions.
 
