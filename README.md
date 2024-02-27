@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50"> 
 
-# <div Howdy! I'm Guillermo 👋
+# Howdy! I'm Guillermo 👋
 
 Welcome to my profile! I'm a passionate full-stack programmer who loves building things for the web. Here you'll find some insights about me and my interests.
 
@@ -42,7 +42,7 @@ I'd love to connect with you! You can find me on:
 - ✉️ Email: guillef.dez11@gmail.com
 - 🔗 LinkedIn: https://es.linkedin.com/in/guillermo-fern%C3%A1ndez-grueso-890229239
 
-Thanks for visiting my profile! Feel free to reach out if you have any questions or suggestions. /> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20">
+Thanks for visiting my profile! Feel free to reach out if you have any questions or suggestions. <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20">
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
