@@ -42,7 +42,7 @@ I'd love to connect with you! You can find me on:
 
 Thanks for visiting my profile! Feel free to reach out if you have any questions or suggestions.
 
-<div class="tenor-gif-embed" data-postid="16168791" data-share-method="host" data-aspect-ratio="1.62437" data-width="100%"><a href="https://tenor.com/view/java-python-fight-me-saber-tdfw-gif-16168791">Java Python GIF</a>from <a href="https://tenor.com/search/java-gifs">Java GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="500">
 
 
 
