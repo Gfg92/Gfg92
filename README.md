@@ -4,15 +4,14 @@ Welcome to my profile! I'm a passionate full-stack programmer who loves building
 
 ## About Me ℹ️
 
-- 🏷 Name: Guillermo Fernández
-- 💼 Profession: Full-stack Programmer
-- 📍 Location: Castellón de la Plana
-- 🎯 Interests: Technology, programming, artificial intelligence, big data.
+- 🏷 Guillermo Fernández
+- 💼 Full-stack Programmer
+- 📍 Castellón de la Plana
+- 🎯 Technology, programming, artificial intelligence, big data.
 
 ## Experience 💼
 
-- 🎓 Education: Multiplatform Application Development, Big Data and Artificial Intelligence
-- 💻 Work Experience: [Brief description of your relevant work or projects]
+- 🎓 Multiplatform Application Development, Big Data and Artificial Intelligence
 
 ## Skills 🚀
 
@@ -27,6 +26,7 @@ Welcome to my profile! I'm a passionate full-stack programmer who loves building
     - MongoDB ![MongoDB](link-to-mongodb-logo.png)
     - MySQL ![MySQL](link-to-mysql-logo.png)
     - PostgreSQL ![PostgreSQL](link-to-postgresql-logo.png)
+    - eXistdb ![]
 - And more...
 
 ## Contact 📫
