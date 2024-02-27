@@ -1,12 +1,11 @@
-# Howdy! I'm [Guillermo Fernandez] 👋
+# Howdy! I'm Guillermo 👋
 
 Welcome to my profile! I'm a passionate full-stack programmer who loves building things for the web. Here you'll find some insights about me and my interests.
 
 ## About Me ℹ️
 
-- **Name:** [Your Name]
 - **Profession:** Full-stack Programmer
-- **Location:** [Your Location]
+- **Location:** Castellón de la Plana
 - **Interests:** Technology, programming, artificial intelligence, music, literature.
 
 ## Experience 💼
