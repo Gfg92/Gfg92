@@ -1,4 +1,5 @@
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"> # Howdy! I'm Guillermo 👋
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="20"> 
+# Howdy! I'm Guillermo 👋
 
 Welcome to my profile! I'm a passionate full-stack programmer who loves building things for the web. Here you'll find some insights about me and my interests.
 
