@@ -1,3 +1,5 @@
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
+
 # Howdy! I'm Guillermo 👋
 
 Welcome to my profile! I'm a passionate full-stack programmer who loves building things for the web. Here you'll find some insights about me and my interests.
@@ -42,9 +44,7 @@ I'd love to connect with you! You can find me on:
 
 Thanks for visiting my profile! Feel free to reach out if you have any questions or suggestions.
 
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="600">
-
-
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
 
 
 <!--
